@@ -1,3 +1,5 @@
 <?php
 	echo "This is my Git example project";
+	
+	echo "This is a new text 1";
 ?>
