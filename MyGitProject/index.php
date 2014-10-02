@@ -10,4 +10,6 @@
 	echo "Another local line";
 	
 	echo "Another remote added line";
+	
+	echo "Try local for conflict";
 ?>
