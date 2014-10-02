@@ -11,5 +11,7 @@
 	
 	echo "Another remote added line";
 	
+	echo "Try again...";
+	
 	echo "Try local for conflict";
 ?>
